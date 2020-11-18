@@ -5,4 +5,4 @@ Youtube URL(s):
 
 ## Sponsored Keynote: The Rise of the End Users - Diane Mueller, Community Development, Red Hat
 
-
+Enable more end user voices in the end user community.

@@ -5,4 +5,6 @@ Youtube URL(s):
 
 ## Keynote: The Cloud Native Journey @Apple - Alena Prokharchyk, Software Engineer, Apple
 
+Namespaces as a Service!
 
+Running at scale.

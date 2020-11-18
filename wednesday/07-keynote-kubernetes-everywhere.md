@@ -5,4 +5,11 @@ Youtube URL(s):
 
 ## Sponsored Keynote: Kubernetes Everywhere – Briana Frank, Director of Product, IBM Cloud
 
+### Financial Industry
+Exceptional user experiences, AI, try to stay ahead of the market.
+
+### Distributed Cloud
+Public clouds combine to make up distributed cloud.
+
+### Kubernetes on Edge
 
