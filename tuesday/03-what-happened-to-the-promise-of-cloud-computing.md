@@ -1,5 +1,6 @@
 ## Meta
 Sched URL: https://kccncna20.sched.com/event/f6k6/sponsored-session-what-happened-to-the-promise-of-cloud-computing-doug-davis-ibm-cloud
+
 Youtube URL:
 
 ## Sponsored Session: What Happened to the Promise of Cloud Computing? - Doug Davis, IBM Cloud

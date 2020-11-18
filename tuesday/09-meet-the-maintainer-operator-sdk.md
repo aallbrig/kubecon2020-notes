@@ -1,5 +1,6 @@
 ## Meta
 Sched URL: https://kccncna20.sched.com/event/fMW6/meet-the-maintainer-operator-sdk
+
 Youtube URL:
 
 ## Meet the Maintainer: Operator SDK

@@ -1,6 +1,7 @@
 ## Meta
-Sched URL: 
-Youtube URL:
+Sched URL(s): 
+
+Youtube URL(s):
 
 ## 
 

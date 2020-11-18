@@ -1,5 +1,6 @@
 ## Meta
 Sched URL: https://kccncna20.sched.com/event/fGWK/simplify-application-deployment-at-the-edge-with-harbor-michael-michael-harbor
+
 Youtube URL:
 
 ## Simplify Application Deployment at the Edge with Harbor - MICHAEL MICHAEL, Harbor
